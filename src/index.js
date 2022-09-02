@@ -36,7 +36,6 @@ function newSearch(e) {
   gallery.innerHTML = "";
 }
 
-
 function loadMoreImg() {
   pagination += 1;
   searchingImages();
